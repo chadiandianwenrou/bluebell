@@ -1,0 +1,213 @@
+{"level":"DEBUG","time":"2022-05-03T01:26:15.168+0800","caller":"gin/main.go:25","msg":"init logger success..."}
+{"level":"ERROR","time":"2022-05-03T01:26:15.200+0800","caller":"gin/main.go:32","msg":"初始化mysql失败 %v","error":"Error 1045: Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"DEBUG","time":"2022-05-03T01:26:56.422+0800","caller":"gin/main.go:25","msg":"init logger success..."}
+{"level":"ERROR","time":"2022-05-03T01:26:56.431+0800","caller":"gin/main.go:33","msg":"初始化mysql失败 %v","error":"Error 1045: Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"DEBUG","time":"2022-05-03T01:27:14.962+0800","caller":"gin/main.go:25","msg":"init logger success..."}
+{"level":"ERROR","time":"2022-05-03T01:27:14.969+0800","caller":"gin/main.go:33","msg":"初始化mysql失败 %v","error":"Error 1045: Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"DEBUG","time":"2022-05-03T01:29:36.295+0800","caller":"gin/main.go:25","msg":"init logger success..."}
+{"level":"ERROR","time":"2022-05-03T01:29:36.295+0800","caller":"gin/main.go:33","msg":"初始化mysql失败 %v","error":"json: cannot unmarshal string into Go value of type mysql.Options"}
+{"level":"DEBUG","time":"2022-05-03T01:30:10.091+0800","caller":"gin/main.go:25","msg":"init logger success..."}
+{"level":"ERROR","time":"2022-05-03T01:30:10.092+0800","caller":"gin/main.go:33","msg":"初始化mysql失败 %v","error":"json: cannot unmarshal string into Go value of type mysql.Options"}
+{"level":"DEBUG","time":"2022-05-03T01:32:51.527+0800","caller":"gin/main.go:25","msg":"init logger success..."}
+{"level":"ERROR","time":"2022-05-03T01:32:51.534+0800","caller":"gin/main.go:33","msg":"初始化mysql失败 %v","error":"Error 1045: Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"DEBUG","time":"2022-05-03T01:33:19.599+0800","caller":"gin/main.go:25","msg":"init logger success..."}
+{"level":"ERROR","time":"2022-05-03T01:33:19.604+0800","caller":"gin/main.go:33","msg":"初始化mysql失败 %v","error":"Error 1045: Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"DEBUG","time":"2022-05-03T01:33:50.017+0800","caller":"gin/main.go:25","msg":"init logger success..."}
+{"level":"ERROR","time":"2022-05-03T01:33:50.026+0800","caller":"gin/main.go:33","msg":"初始化mysql失败 %v","error":"Error 1045: Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"DEBUG","time":"2022-05-03T01:34:01.175+0800","caller":"gin/main.go:25","msg":"init logger success..."}
+{"level":"ERROR","time":"2022-05-03T01:34:01.183+0800","caller":"gin/main.go:33","msg":"初始化mysql失败 %v","error":"Error 1045: Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"DEBUG","time":"2022-05-03T01:35:57.415+0800","caller":"gin/main.go:25","msg":"init logger success..."}
+{"level":"ERROR","time":"2022-05-03T01:35:57.423+0800","caller":"gin/main.go:33","msg":"初始化mysql失败 %v","error":"Error 1045: Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"DEBUG","time":"2022-05-03T01:37:20.570+0800","caller":"gin/main.go:25","msg":"init logger success..."}
+{"level":"ERROR","time":"2022-05-03T01:37:20.576+0800","caller":"gin/main.go:33","msg":"初始化mysql失败 %v","error":"Error 1045: Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"DEBUG","time":"2022-05-03T01:37:52.965+0800","caller":"gin/main.go:25","msg":"init logger success..."}
+{"level":"ERROR","time":"2022-05-03T01:37:52.972+0800","caller":"gin/main.go:33","msg":"初始化mysql失败 %v","error":"Error 1045: Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"DEBUG","time":"2022-05-03T01:41:29.873+0800","caller":"gin/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-03T01:41:29.874+0800","caller":"gin/main.go:57","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-04T19:02:00.688+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"ERROR","time":"2022-05-04T19:02:00.724+0800","caller":"bluebell/main.go:35","msg":"初始化mysql失败 %v","error":"Error 1049: Unknown database 'test'"}
+{"level":"DEBUG","time":"2022-05-04T19:02:23.453+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T19:02:23.458+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-04T19:02:51.843+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T19:02:51.847+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-04T19:03:07.010+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T19:03:07.020+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-04T19:04:14.481+0800","caller":"bluebell/main.go:28","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T19:04:14.489+0800","caller":"bluebell/main.go:44","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-04T19:06:39.723+0800","caller":"bluebell/main.go:28","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T19:06:39.728+0800","caller":"bluebell/main.go:44","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-04T19:15:52.334+0800","caller":"controller/user.go:16","msg":"SingUp with invalid param","error":"invalid character '}' looking for beginning of object key string"}
+{"level":"ERROR","time":"2022-05-04T19:15:53.128+0800","caller":"controller/user.go:16","msg":"SingUp with invalid param","error":"invalid character '}' looking for beginning of object key string"}
+{"level":"DEBUG","time":"2022-05-04T19:18:05.880+0800","caller":"bluebell/main.go:28","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T19:18:05.887+0800","caller":"bluebell/main.go:44","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-04T19:18:08.467+0800","caller":"controller/user.go:16","msg":"SingUp with invalid param","error":"invalid character '}' looking for beginning of object key string"}
+{"level":"ERROR","time":"2022-05-04T19:18:11.593+0800","caller":"controller/user.go:16","msg":"SingUp with invalid param","error":"invalid character '}' looking for beginning of object key string"}
+{"level":"ERROR","time":"2022-05-04T19:18:12.496+0800","caller":"controller/user.go:16","msg":"SingUp with invalid param","error":"invalid character '}' looking for beginning of object key string"}
+{"level":"DEBUG","time":"2022-05-04T19:18:48.740+0800","caller":"bluebell/main.go:28","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T19:18:48.744+0800","caller":"bluebell/main.go:44","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-04T19:18:51.337+0800","caller":"controller/user.go:16","msg":"SingUp with invalid param","error":"invalid character '}' looking for beginning of object key string"}
+{"level":"ERROR","time":"2022-05-04T19:18:52.250+0800","caller":"controller/user.go:16","msg":"SingUp with invalid param","error":"invalid character '}' looking for beginning of object key string"}
+{"level":"ERROR","time":"2022-05-04T19:18:52.901+0800","caller":"controller/user.go:16","msg":"SingUp with invalid param","error":"invalid character '}' looking for beginning of object key string"}
+{"level":"ERROR","time":"2022-05-04T19:18:56.056+0800","caller":"controller/user.go:16","msg":"SingUp with invalid param","error":"Key: 'SingUp.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"DEBUG","time":"2022-05-04T19:42:37.122+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T19:42:37.128+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-04T19:42:41.386+0800","caller":"controller/user.go:18","msg":"SingUp with invalid param","error":"Key: 'SingUp.re_password' Error:Field validation for 're_password' failed on the 'required' tag"}
+{"level":"ERROR","time":"2022-05-04T19:42:42.864+0800","caller":"controller/user.go:18","msg":"SingUp with invalid param","error":"Key: 'SingUp.re_password' Error:Field validation for 're_password' failed on the 'required' tag"}
+{"level":"ERROR","time":"2022-05-04T19:42:45.993+0800","caller":"controller/user.go:18","msg":"SingUp with invalid param","error":"Key: 'SingUp.re_password' Error:Field validation for 're_password' failed on the 'required' tag"}
+{"level":"ERROR","time":"2022-05-04T19:42:46.517+0800","caller":"controller/user.go:18","msg":"SingUp with invalid param","error":"Key: 'SingUp.re_password' Error:Field validation for 're_password' failed on the 'required' tag"}
+{"level":"ERROR","time":"2022-05-04T19:42:47.243+0800","caller":"controller/user.go:18","msg":"SingUp with invalid param","error":"Key: 'SingUp.re_password' Error:Field validation for 're_password' failed on the 'required' tag"}
+{"level":"ERROR","time":"2022-05-04T19:42:47.805+0800","caller":"controller/user.go:18","msg":"SingUp with invalid param","error":"Key: 'SingUp.re_password' Error:Field validation for 're_password' failed on the 'required' tag"}
+{"level":"ERROR","time":"2022-05-04T19:42:48.340+0800","caller":"controller/user.go:18","msg":"SingUp with invalid param","error":"Key: 'SingUp.re_password' Error:Field validation for 're_password' failed on the 'required' tag"}
+{"level":"ERROR","time":"2022-05-04T19:42:48.842+0800","caller":"controller/user.go:18","msg":"SingUp with invalid param","error":"Key: 'SingUp.re_password' Error:Field validation for 're_password' failed on the 'required' tag"}
+{"level":"ERROR","time":"2022-05-04T19:42:49.562+0800","caller":"controller/user.go:18","msg":"SingUp with invalid param","error":"Key: 'SingUp.re_password' Error:Field validation for 're_password' failed on the 'required' tag"}
+{"level":"DEBUG","time":"2022-05-04T19:44:05.454+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T19:44:05.458+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-04T19:44:07.395+0800","caller":"controller/user.go:18","msg":"SingUp with invalid param","error":"Key: 'SingUp.re_password' Error:Field validation for 're_password' failed on the 'required' tag"}
+{"level":"ERROR","time":"2022-05-04T19:44:08.339+0800","caller":"controller/user.go:18","msg":"SingUp with invalid param","error":"Key: 'SingUp.re_password' Error:Field validation for 're_password' failed on the 'required' tag"}
+{"level":"DEBUG","time":"2022-05-04T19:45:54.326+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T19:45:54.334+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-04T19:46:28.611+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T19:46:28.617+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-04T19:46:32.127+0800","caller":"controller/user.go:18","msg":"SingUp with invalid param","error":"Key: 'SingUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"ERROR","time":"2022-05-04T19:46:33.371+0800","caller":"controller/user.go:18","msg":"SingUp with invalid param","error":"Key: 'SingUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"DEBUG","time":"2022-05-04T22:05:21.374+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T22:05:21.391+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-04T22:11:39.340+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T22:11:39.345+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-04T22:11:50.023+0800","caller":"controller/user.go:18","msg":"SingUp with invalid param","error":"Key: 'SingUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"DEBUG","time":"2022-05-04T22:12:59.521+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T22:12:59.525+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-04T22:14:26.022+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T22:14:26.025+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-04T22:15:28.925+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T22:15:28.932+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-04T22:15:52.090+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T22:15:52.095+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-04T22:16:50.933+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T22:16:50.937+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-04T22:17:54.186+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T22:17:54.190+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-04T22:18:21.752+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T22:18:21.758+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-04T22:18:57.133+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T22:18:57.138+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-04T22:20:00.918+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T22:20:00.922+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-04T22:20:29.226+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T22:20:29.230+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-04T22:42:23.491+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-04T22:42:23.498+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-04T22:42:27.998+0800","caller":"controller/user.go:19","msg":"SingUp with invalid param","error":"Key: 'SingUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"DEBUG","time":"2022-05-05T00:25:14.972+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-05T00:25:14.983+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-05T00:25:34.871+0800","caller":"controller/user.go:53","msg":"Login with invalid param","error":"Key: 'Login.password' Error:Field validation for 'password' failed on the 'required' tag"}
+{"level":"ERROR","time":"2022-05-05T00:25:59.594+0800","caller":"controller/user.go:71","msg":"service.Login failed","error":"密码错误"}
+{"level":"DEBUG","time":"2022-05-05T00:28:13.282+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-05T00:28:13.287+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-05T00:28:16.233+0800","caller":"controller/user.go:71","msg":"service.Login failed","username":"taotao","error":"密码错误"}
+{"level":"ERROR","time":"2022-05-05T00:28:24.689+0800","caller":"controller/user.go:71","msg":"service.Login failed","username":"taotao","error":"密码错误"}
+{"level":"ERROR","time":"2022-05-05T00:28:25.184+0800","caller":"controller/user.go:71","msg":"service.Login failed","username":"taotao","error":"密码错误"}
+{"level":"DEBUG","time":"2022-05-05T00:32:18.690+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-05T00:32:18.696+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-05T01:11:12.910+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-05T01:11:12.919+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-05T01:11:16.767+0800","caller":"controller/user.go:60","msg":"service.Login failed","username":"taotao","error":"密码错误"}
+{"level":"ERROR","time":"2022-05-05T01:11:20.049+0800","caller":"controller/user.go:60","msg":"service.Login failed","username":"taotao","error":"密码错误"}
+{"level":"DEBUG","time":"2022-05-09T00:17:13.363+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-09T00:17:13.406+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-09T00:38:12.124+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-09T00:38:12.135+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-09T00:38:26.289+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-09T00:38:26.296+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-09T00:39:13.512+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-09T00:39:13.516+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-09T21:19:28.620+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-09T21:19:28.658+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-10T00:36:47.395+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-10T00:36:47.410+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-10T00:39:15.499+0800","caller":"controller/community.go:16","msg":"service.GetCommunityList() failed","error":"Error 1146: Table 'test.community' doesn't exist"}
+{"level":"DEBUG","time":"2022-05-10T00:39:39.851+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-10T00:39:39.855+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-10T00:40:12.077+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-10T00:40:12.081+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-10T00:47:21.041+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-10T00:47:21.046+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-10T22:46:59.908+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-10T22:46:59.945+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-10T22:47:23.059+0800","caller":"controller/community.go:34","msg":"service.GetCommunityDetail() failed","error":"查询失败"}
+{"level":"DEBUG","time":"2022-05-10T22:48:17.065+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-10T22:48:17.074+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-10T22:48:19.156+0800","caller":"controller/community.go:34","msg":"service.GetCommunityDetail() failed","error":"查询失败"}
+{"level":"DEBUG","time":"2022-05-10T22:48:43.614+0800","caller":"bluebell/main.go:29","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-10T22:48:43.621+0800","caller":"bluebell/main.go:45","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-11T22:01:16.345+0800","caller":"controller/user.go:46","msg":"Login with invalid param","error":"invalid character '\"' after object key:value pair"}
+{"level":"DEBUG","time":"2022-05-13T00:48:28.263+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-13T00:48:28.284+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-13T00:50:46.055+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-13T00:50:46.060+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-13T00:51:56.774+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-13T00:51:56.780+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-13T00:53:36.421+0800","caller":"controller/post.go:16","msg":"c.ShouldBindJSON error","err":"Key: 'Post.community_id' Error:Field validation for 'community_id' failed on the 'required' tag"}
+{"level":"ERROR","time":"2022-05-13T00:53:36.422+0800","caller":"controller/post.go:17","msg":"create post invalid param"}
+{"level":"ERROR","time":"2022-05-13T00:54:00.112+0800","caller":"controller/post.go:32","msg":" service.CreatePost failed","error":"exec err=Error 1146: Table 'test.post' doesn't exist, sql=insert into post(\n        post_id,title,content,author_id,community_id)\n        values(3516672598085632,学习使我快乐,只有学习才能涨工资,578939760152576,1)"}
+{"level":"ERROR","time":"2022-05-13T00:54:31.584+0800","caller":"controller/post.go:32","msg":" service.CreatePost failed","error":"exec err=Error 1146: Table 'test.post' doesn't exist, sql=insert into post(\n        post_id,title,content,author_id,community_id)\n        values(3516804701884416,学习使我快乐,只有学习才能涨工资,578939760152576,1)"}
+{"level":"DEBUG","time":"2022-05-13T00:54:38.408+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-13T00:54:38.413+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-13T00:54:41.050+0800","caller":"controller/post.go:32","msg":" service.CreatePost failed","error":"exec err=Error 1146: Table 'test.post' doesn't exist, sql=insert into post(\n        post_id,title,content,author_id,community_id)\n        values(3516844417748992,学习使我快乐,只有学习才能涨工资,578939760152576,1)"}
+{"level":"DEBUG","time":"2022-05-13T00:55:05.655+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-13T00:55:05.659+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-13T00:55:07.592+0800","caller":"controller/post.go:32","msg":" service.CreatePost failed","error":"exec err=Error 1054: Unknown column '学习使我快乐' in 'field list', sql=insert into bluebell.post(\n        post_id,title,content,author_id,community_id)\n        values(3516955717799936,学习使我快乐,只有学习才能涨工资,578939760152576,1)"}
+{"level":"ERROR","time":"2022-05-13T00:56:51.638+0800","caller":"controller/post.go:32","msg":" service.CreatePost failed","error":"exec err=Error 1054: Unknown column '学习使我快乐' in 'field list', sql=insert into bluebell.post(\n        post_id,title,content,author_id,community_id)\n        values(3517392130936832,学习使我快乐,只有学习才能涨工资,578939760152576,1)"}
+{"level":"DEBUG","time":"2022-05-13T00:58:07.305+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-13T00:58:07.310+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-13T00:58:09.018+0800","caller":"controller/post.go:32","msg":" service.CreatePost failed","error":"exec err=Error 1054: Unknown column '学习使我快乐' in 'field list', sql=insert into bluebell.post(post_id,title,content,author_id,community_id) values(3517716686180352,学习使我快乐,只有学习才能涨工资,578939760152576,1)"}
+{"level":"DEBUG","time":"2022-05-13T00:59:03.300+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-13T00:59:03.305+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-17T23:29:05.856+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-17T23:29:05.876+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-17T23:41:47.766+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-17T23:41:47.773+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-18T00:10:01.265+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-18T00:10:01.272+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-18T00:11:12.189+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-18T00:11:12.192+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-18T00:15:24.993+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-18T00:15:24.997+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-18T00:17:24.596+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-18T00:17:24.599+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-18T00:37:35.689+0800","caller":"controller/post.go:18","msg":"c.ShouldBindJSON error","err":"json: cannot unmarshal string into Go struct field Post.community_id of type int64"}
+{"level":"ERROR","time":"2022-05-18T00:37:35.689+0800","caller":"controller/post.go:19","msg":"create post invalid param"}
+{"level":"DEBUG","time":"2022-05-18T00:38:09.271+0800","caller":"controller/post.go:18","msg":"c.ShouldBindJSON error","err":"invalid character '}' looking for beginning of object key string"}
+{"level":"ERROR","time":"2022-05-18T00:38:09.272+0800","caller":"controller/post.go:19","msg":"create post invalid param"}
+{"level":"DEBUG","time":"2022-05-18T00:38:24.462+0800","caller":"controller/post.go:18","msg":"c.ShouldBindJSON error","err":"invalid character '}' looking for beginning of object key string"}
+{"level":"ERROR","time":"2022-05-18T00:38:24.462+0800","caller":"controller/post.go:19","msg":"create post invalid param"}
+{"level":"DEBUG","time":"2022-05-18T00:50:20.526+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-18T00:50:20.531+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-18T00:50:57.510+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-18T00:50:57.514+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-18T01:05:16.281+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-18T01:05:16.286+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-18T01:05:21.783+0800","caller":"controller/post.go:81","msg":"service.GetPostList() failed","error":"Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(%!s(int64=1)-1)*%!s(int64=1) ,%!s(int64=1)' at line 1"}
+{"level":"DEBUG","time":"2022-05-18T01:05:43.641+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-18T01:05:43.645+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-18T01:06:00.686+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-18T01:06:00.690+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-18T01:06:02.548+0800","caller":"controller/post.go:81","msg":"service.GetPostList() failed","error":"Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(1-1)*1 ,1' at line 1"}
+{"level":"ERROR","time":"2022-05-18T01:06:54.446+0800","caller":"controller/post.go:81","msg":"service.GetPostList() failed","error":"Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(1-1)*10 ,10' at line 1"}
+{"level":"DEBUG","time":"2022-05-18T01:07:40.643+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-18T01:07:40.647+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-18T01:07:42.163+0800","caller":"controller/post.go:81","msg":"service.GetPostList() failed","error":"Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(0-1)*10 ,10' at line 1"}
+{"level":"DEBUG","time":"2022-05-18T01:11:30.885+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-18T01:11:30.889+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-18T01:11:35.543+0800","caller":"controller/post.go:81","msg":"service.GetPostList() failed","error":"Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(1-1)*10 ,10' at line 1"}
+{"level":"DEBUG","time":"2022-05-18T01:13:35.229+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-18T01:13:35.234+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"ERROR","time":"2022-05-18T01:13:36.980+0800","caller":"controller/post.go:81","msg":"service.GetPostList() failed","error":"Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(1-1)*10,10' at line 1"}
+{"level":"DEBUG","time":"2022-05-18T01:17:38.594+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-18T01:17:38.601+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-18T01:18:23.348+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-18T01:18:23.352+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-18T01:21:02.452+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-18T01:21:02.455+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-05-19T19:11:57.023+0800","caller":"bluebell/main.go:35","msg":"init logger success..."}
+{"level":"DEBUG","time":"2022-05-19T19:11:57.066+0800","caller":"bluebell/main.go:51","msg":"mysql init success"}
